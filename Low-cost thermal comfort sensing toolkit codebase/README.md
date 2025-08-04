@@ -1,6 +1,10 @@
 # TCSR- Thermal Comfort Sensing Rig
 
-This project is developing a device to collect Thermal comfort data in an indoor office environment. it is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. It currently is developed based on a Raspberry Pi, and has the ability to measure the following parameters: 
+This project is developing a device to collect Thermal comfort data in an indoor office environment, as part of the PhD thesis of Adam Tyler. It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. 
+
+![A cutaway image of the Thermal Comfort Sensing Rig](TCSR.jpg "TCSR Device")
+
+It currently is developed based on a Raspberry Pi, and has the ability to measure the following parameters: 
 * Air Temperature - Sensiron SHT75 and SDC30 sensors, Adafruit BME280 sensor
 * Air Speed - Modern Devices Rev P anemometer
 * Humidity - Sensiron SHT75 and SDC30 sensors, Adafruit BME280 sensor
