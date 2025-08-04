@@ -30,6 +30,6 @@ The device can be mains or POE powered, and either connects via Ethernet or WiFi
 
 * **Adam Tyler**
 
-## License - To be completed
+## License
 
 Creative Commons - BY-NC-SA - see repository LICENSE file
